@@ -1,2 +1,2 @@
 # wema.digital
-The code that drives industrial activities.
+The codes that drive industrial activities.
