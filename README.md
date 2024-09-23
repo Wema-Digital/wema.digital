@@ -1,4 +1,6 @@
 # Wema.Digital
+![logo base](https://github.com/user-attachments/assets/43929a9e-ee6e-4e67-a7a2-4233400ed3f3)
+
 
 > A digital market-based project that delivers technical expertise and IT solutions to improve the performance of the middle manager within the industrial community.
 > Wema.Digital creates digital stories to effectively engage organisational actors in the digital transformation process.
@@ -29,5 +31,4 @@ Digital storytelling and technologies can serve to enrich organisational actors 
 - Project management
 
 Contact: 
-You can contact us for new proposals by:
 email: wema.digital.mail@gmail.com
