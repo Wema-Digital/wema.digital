@@ -1,5 +1,5 @@
 # Wema.Digital
-![logo base-sin-fondo](https://github.com/user-attachments/assets/47d0e54f-7c6f-4b2f-b147-bb6a50296b73)
+![logo base](https://github.com/user-attachments/assets/43929a9e-ee6e-4e67-a7a2-4233400ed3f3)
 
 
 > A digital market-based project that delivers technical expertise and IT solutions to improve the performance of the middle manager within the industrial community.
@@ -16,12 +16,9 @@ Digital storytelling and technologies can serve to enrich organisational actors 
 
 - Digital stories improve middle manager's skills and make project communication more efficient and trustworthy.
 - A careful use of digital technologies and services will transform the middle manager into a reliable agent for the digitalisation process across industrial activities.
-- Our digital tools and training assist your team and you to build the digital resilience needed for an agile project development.
+- Our digital products and courses assist your team and you to build the digital resilience needed for an agile project development.
   
-# Deliveries: 
-
--	Wema.digital delivers state-of-the-art industrial minded communication for engineering projects.
--	Wema.digital creates courses based on machine learning and IA tools to improve the quality.
+# Collaboration:
 
 > Join and use our digital stories to enrich your middle manager profile with skills for engeneering projects and programming languages:
 
@@ -29,9 +26,9 @@ Digital storytelling and technologies can serve to enrich organisational actors 
 - Process Engineering
 - Industrial automation and digitalisation
 - Project management
+- Business Development
 
 Contact: 
 email: wema.digital.mail@gmail.com
-
 
 
