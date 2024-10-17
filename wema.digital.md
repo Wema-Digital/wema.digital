@@ -1,5 +1,6 @@
 # Wema.Digital
-![logo base](https://github.com/user-attachments/assets/43929a9e-ee6e-4e67-a7a2-4233400ed3f3)
+
+![brand-main-isotype-light](https://github.com/user-attachments/assets/4a187fba-b195-479d-b864-1eb8f0cbd2f0)
 
 
 > A digital market-based project that delivers technical expertise and IT solutions to improve the performance of the middle manager within the industrial community.
@@ -8,7 +9,7 @@
 
 # Mission:
 
-Digital storytelling and technologies can serve to enrich organisational actors while also ensuring the long-term profitability and efficiency of businesses and engineering projects.
+We bring clarity to your technology decisions for a smart industrial process.
 
 # Values:
 
@@ -30,5 +31,3 @@ Digital storytelling and technologies can serve to enrich organisational actors 
 
 Contact: 
 email: wema.digital.mail@gmail.com
-
-
