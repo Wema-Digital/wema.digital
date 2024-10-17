@@ -1,7 +1,5 @@
 # Wema.Digital
 
-![brand-main-isotype-light](https://github.com/user-attachments/assets/4a187fba-b195-479d-b864-1eb8f0cbd2f0)
-
 
 > A digital market-based project that delivers technical expertise and IT solutions to improve the performance of the middle manager within the industrial community.
 > Wema.Digital creates digital stories to effectively engage organisational actors in the digital transformation process.
