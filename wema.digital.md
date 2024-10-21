@@ -7,7 +7,7 @@
 
 # Mission:
 
-We bring clarity to your technology decisions for a smart industrial process.
+We bring clarity to the technological decisions that make your industrial activities a smart process.
 
 # Values:
 
