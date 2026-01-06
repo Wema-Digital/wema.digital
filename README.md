@@ -1,33 +1,54 @@
 # Wema.Digital
 
+> Wema.Digital brings clarity and create effortless digital and technical solutions to integrate industrial processes and products with the digital world.
+
+---
+
+## Mission
+
+Empower middle managers with digital and technical solutions to efficiently lead their enterprises and projects through digital transformation.
+
+## Core Values
+
+| Value | Meaning |
+|-------|---------|
+| **Middle Manager Focus** | The vital organisational player at the centre of our value chain |
+| **Digital Stories** | Stories that improve skills and make communication trustworthy |
+| **Digital Resilience** | Practical capability building for agile project development |
+| **Enhancement Philosophy** | Technology that supports expertise, not replaces it |
+
+## Expertise Areas
+
+- Machine Learning & Predictive Analytics
+- Process Engineering & Optimisation
+- Industrial Automation & Digitalisation
+- Project Management & Delivery
+- Business Development & Growth
+
+## Platforms
+
+| Platform | Purpose | URL |
+|----------|---------|-----|
+| 🌐 B2B Services | Consultation, implementation, training | [wema.digital](https://www.wema.digital) |
+| 📰 B2C Newsletter | Digital narratives, insights, community | [newsletter.wema.digital](https://newsletter.wema.digital) |
 
 
 
-> A digital market-based project that delivers technical expertise and IT solutions to improve the performance of the middle manager within the industrial community.
-> Wema.Digital creates digital stories to effectively engage organisational actors in the digital transformation process.
-> Wema.Digital provides middle manager with digital and technical solutions to assist them to efficiently run their own enterprises and company projects.
+## Who Wema.Digital Serve
 
-# Mission:
+Middle managers across industrial and service sectors:
 
-We bring clarity to the technological decisions that make your industrial activities a smart process.
+- Manufacturing & Production
+- Construction & Engineering
+- Logistics & Supply Chain
+- Healthcare Operations
+- Energy & Utilities
+- Professional Services
+- Retail & Fashion
 
-# Values:
 
-> The middle manager is a vital organisational player and our primary focus for our value chain.
+**Contact**: [support@wema.digital](support@wema.digital)
 
-- Digital stories improve middle manager's skills and make project communication more efficient and trustworthy.
-- A careful use of digital technologies and services will transform the middle manager into a reliable agent for the digitalisation process across industrial activities.
-- Our digital products and courses assist your team and you to build the digital resilience needed for an agile project development.
-  
-# Collaboration:
+---
 
-> Join and use our digital stories to enrich your middle manager profile with skills for engeneering projects and programming languages:
-
-- Machine Learning 
-- Process Engineering
-- Industrial automation and digitalisation
-- Project management
-- Business Development
-
-Contact: 
-email: wema.digital.mail@gmail.com
+© 2026 Wema.Digital. All rights reserved.
